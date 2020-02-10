@@ -121,5 +121,5 @@ Getting to VPU devices, like the Intel® Neural Compute Stick, there are additio
 * [Model Optimizer with raspberry pi](https://software.intel.com/en-us/articles/model-downloader-optimizer-for-openvino-on-raspberry-pi)
 * [Integrating the Inference Engine with the application](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Integrate_with_customer_application_new_API.html)
 * [Object Detection Demo SSD Async](https://github.com/opencv/open_model_zoo/blob/master/demos/object_detection_demo_ssd_async/README.md)
-* [Optimization Guide](https://docs.openvinotoolkit.org/latest/_docs_optimization_guide_dldt_optimization_guide.html) for more on differences in between between devices.
+* [Optimization Guide](https://docs.openvinotoolkit.org/latest/_docs_optimization_guide_dldt_optimization_guide.html) for more on differences in optimizations between devices.
 
